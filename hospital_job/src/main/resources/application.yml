@@ -1,0 +1,8 @@
+server:
+  port: 9003
+  servlet:
+    context-path: /
+spring:
+  redis:
+    host: 192.168.15.111
+    port: 6379

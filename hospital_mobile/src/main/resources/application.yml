@@ -1,0 +1,14 @@
+server:
+  servlet:
+    context-path: /
+  port: 9004
+spring:
+  application:
+    name: hospital_mobile
+dubbo:
+  protocol:
+    name: dubbo
+    port: 20880
+  registry:
+    address: zookeeper://192.168.15.111:2181
+    timeout: 10000

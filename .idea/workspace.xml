@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e6ed68d-f494-4a5d-bdfc-240e17884777" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1utgq090aFPuvMilMrGMnGzqqQN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hospital_controller/src/main/java/com/ccw/config" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ccw\Desktop\Java\第三阶段\hospital\hospital_ui\login" />
+      <recent name="C:\Users\ccw\Desktop\Java\第三阶段\hospital\hospital_ui" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ccw.service.impl" />
+      <recent name="com.ccw.config" />
+      <recent name="com.ccw.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ccw\Desktop\Java\第三阶段\hospital\hospital_controller\src\main\java\com\ccw\config" />
+      <recent name="C:\Users\ccw\Desktop\Java\第三阶段\hospital\hospital_common\src\main\java\com\ccw\commons" />
+      <recent name="C:\Users\ccw\Desktop\Java\第三阶段\hospital\hospital_controller\src\main\java\com\ccw\handler" />
+      <recent name="C:\Users\ccw\Desktop\Java\第三阶段\hospital\hospital_ui\login" />
+      <recent name="C:\Users\ccw\Desktop\Java\第三阶段\hospital\hospital_security\src\main\java\com" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HospitalProviderApplication">
+    <configuration name="TestSecurity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ccw.TestSecurity" />
+      <module name="hospital_security" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ccw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSecurity.main (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hospital_security" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ccw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ccw" />
+      <option name="MAIN_CLASS_NAME" value="com.ccw.TestSecurity" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:59752/hospital/hospital_ui/login/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/hospital/hospital_ui/login/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="HospitalControllerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hospital_controller" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ccw.HospitalControllerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HospitalMobileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hospital_mobile" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ccw.HospitalMobileApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HospitalProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hospital_provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ccw.HospitalProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hospital_security" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ccw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ccw.MyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.login.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Spring Boot.MyApplication" />
+        <item itemvalue="Application.TestSecurity" />
+        <item itemvalue="JUnit.TestSecurity.main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e6ed68d-f494-4a5d-bdfc-240e17884777" name="Default Changelist" comment="" />
+      <created>1625490485282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625490485282</updated>
+      <workItem from="1625490489241" duration="4912000" />
+      <workItem from="1625530772915" duration="28165000" />
+      <workItem from="1625640299462" duration="12343000" />
+      <workItem from="1625655020711" duration="8344000" />
+      <workItem from="1625663414555" duration="2843000" />
+      <workItem from="1625705088296" duration="17352000" />
+      <workItem from="1625728721664" duration="162000" />
+      <workItem from="1625793839926" duration="8341000" />
+      <workItem from="1625824623738" duration="11788000" />
+      <workItem from="1625876286373" duration="2751000" />
+      <workItem from="1625894596873" duration="20595000" />
+      <workItem from="1626002467604" duration="6111000" />
+      <workItem from="1626070130229" duration="24315000" />
+      <workItem from="1626147873906" duration="995000" />
+      <workItem from="1626159523994" duration="21838000" />
+      <workItem from="1626241360943" duration="608000" />
+      <workItem from="1626243175855" duration="502000" />
+      <workItem from="1626245607637" duration="8212000" />
+      <workItem from="1626254366112" duration="12024000" />
+      <workItem from="1626269536209" duration="197000" />
+      <workItem from="1626309370718" duration="1572000" />
+      <workItem from="1626316904572" duration="2945000" />
+      <workItem from="1626335113703" duration="8235000" />
+      <workItem from="1626345610576" duration="11281000" />
+      <workItem from="1626359083470" duration="61000" />
+      <workItem from="1626359172522" duration="810000" />
+      <workItem from="1626395344600" duration="1829000" />
+      <workItem from="1626416658168" duration="692000" />
+      <workItem from="1626684793011" duration="308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1625550656430">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1625550656430" />
+    <state x="574" y="121" width="666" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1626350788802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" width="666" height="582" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1626350788802" />
+    <state x="333" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1626354258849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="333" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1626354258849" />
+    <state x="541" y="279" width="453" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1626341900132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="541" y="279" width="453" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1626341900132" />
+    <state x="549" y="138" key="FileChooserDialogImpl" timestamp="1626685098436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="138" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1626685098436" />
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom" timestamp="1626419797400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1626419797400" />
+    <state width="1493" height="165" key="GridCell.Tab.0.center" timestamp="1626419797400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1626419797400" />
+    <state width="1493" height="165" key="GridCell.Tab.0.left" timestamp="1626419797400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1626419797400" />
+    <state width="1493" height="165" key="GridCell.Tab.0.right" timestamp="1626419797400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1626419797400" />
+    <state width="1493" height="165" key="GridCell.Tab.1.bottom" timestamp="1626419797401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1626419797401" />
+    <state width="1493" height="165" key="GridCell.Tab.1.center" timestamp="1626419797400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1626419797400" />
+    <state width="1493" height="165" key="GridCell.Tab.1.left" timestamp="1626419797400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1626419797400" />
+    <state width="1493" height="165" key="GridCell.Tab.1.right" timestamp="1626419797400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1626419797400" />
+    <state width="1493" height="252" key="GridCell.Tab.2.bottom" timestamp="1626185799206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1626185799206" />
+    <state width="1493" height="252" key="GridCell.Tab.2.center" timestamp="1626185799206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1626185799206" />
+    <state width="1493" height="252" key="GridCell.Tab.2.left" timestamp="1626185799205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1626185799205" />
+    <state width="1493" height="252" key="GridCell.Tab.2.right" timestamp="1626185799206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1626185799206" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1626342389331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1626342389331" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1625550601428">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1625550601428" />
+    <state x="565" y="193" key="chooseDestDirectoryDialog" timestamp="1626341898666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="193" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1626341898666" />
+    <state x="383" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1625728819413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="383" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1625728819413" />
+    <state x="709" y="126" width="755" height="548" key="find.popup" timestamp="1626070414072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="709" y="126" width="755" height="548" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1626070414072" />
+    <state x="178" y="116" width="1180" height="556" key="new project wizard" timestamp="1626685101659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="116" width="1180" height="556" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1626685101659" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1626182976377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1626182976377" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1626396771253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1626396771253" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ccw.mapper.OrderMapper">
+
+    <select id="findHostSetmeal" resultType="java.util.Map">
+        select s.name as name,count(*) as setmeal_count,
+         count(*)/(select count(*) from t_order) as proportion,attention
+         from t_order o,t_setmeal s
+         where o.setmeal_id=s.id
+         group by setmeal_id
+         order by setmeal_count desc
+         limit 0,4
+    </select>
+</mapper>

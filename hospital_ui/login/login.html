@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>登录 - 医疗管家</title>
+    <link rel="stylesheet" type="text/css" href="loginstyle/style/register-login.css">
+</head>
+<body>
+<div id="app">
+    <div class="cent-box">
+        <div class="cent-box-header">
+            <img src='loginstyle/images/logo1.png'>
+        </div>
+
+        <div class="cont-main clearfix">
+            <div class="index-tab">
+                <div class="index-slide-nav">
+                </div>
+            </div>
+            <form id="userForm" method="post">
+                <div class="login form">
+                    <div class="group">
+                        <div class="group-ipt email">
+                            <input type="text" v-model="username" name="username" id="email" class="ipt" placeholder="用户名" required>
+                        </div>
+                        <div class="group-ipt password">
+                            <input type="password" v-model="password" name="password" id="password" class="ipt" placeholder="输入您的登录密码"
+                                   required>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="button">
+                    <input type="button" value="登录" onclick="login()"  class="login-btn register-btn" id="button"/>
+                </div>
+            </form>
+            <div class="remember clearfix">
+                <label class="remember-me"><span class="icon"><span class="zt"></span></span><input type="checkbox"
+                                                                                                    name="remember-me"
+                                                                                                    id="remember-me"
+                                                                                                    class="remember-mecheck"
+                                                                                                    checked>记住我</label>
+                <label class="forgot-password">
+                    <a href="#">忘记密码？</a>
+                </label>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Find 医疗管家</p>
+        <p>offcn& <a href="http://www.ujiuye.com">www.ujiuye.com</a>--2021</p>
+    </div>
+</div>
+<script src='loginstyle/js/particles.js' type="text/javascript"></script>
+<script src='loginstyle/js/background.js' type="text/javascript"></script>
+<script src='loginstyle/js/jquery.min.js' type="text/javascript"></script>
+<script src='loginstyle/js/layer/layer.js' type="text/javascript"></script>
+<script src="../main/js/vue.js"></script>
+<script src="../main/plugins/elementui/index.js"></script>
+<script src="../main/js/axios-0.18.0.js"></script>
+<script>
+
+    function login() {
+        $.post('http://localhost:9002/login',$("#userForm").serialize(),function (resp) {
+            if(resp.code==20000){
+                window.location.href='../main/pages/main.html';
+            }else{
+                alert(resp.message);
+            }
+        },"json")
+    }
+
+    /*var vue = new Vue({
+        el: '#app',
+        data: {
+            username:null,
+            password:null,
+            url: 'http://localhost:9006/login'
+        },
+        methods: {
+
+            login() {
+                var param={
+                    username:this.username,
+                    password:this.password
+                }
+                axios.post(this.url,param).then((resp)=>{
+                    console.log(resp);
+                })
+            }
+        }
+    })*/
+</script>
+</body>
+</html>

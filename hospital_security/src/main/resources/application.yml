@@ -1,0 +1,26 @@
+server:
+  port: 9006
+  servlet:
+    context-path: /
+spring:
+  application:
+    name: security_demo
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql:///securitydemo
+    password: root
+    username: root
+    type: com.alibaba.druid.pool.DruidDataSource
+  devtools:
+    restart:
+      enabled: true
+      additional-paths: src/main/java
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+
+mybatis-plus:
+  mapper-locations: classpath:mappers/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  type-aliases-package: com.ccw.pojo

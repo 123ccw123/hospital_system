@@ -1,0 +1,22 @@
+server:
+  servlet:
+    context-path: /
+  port: 9002
+spring:
+  application:
+    name: hospital_controller
+#开发工具,当修改了后台代码,自动重新编译(可以会花费一定时间,如果要马上编译,那么直接ctrl+f9)
+  devtools:
+    restart:
+      enabled: true
+      additional-paths: src/main/java
+  redis:
+    host: 192.168.15.111
+    port: 6379
+dubbo:
+  protocol:
+    name: dubbo
+    port: 20880
+  registry:
+    address: zookeeper://192.168.15.111:2181
+    timeout: 10000
